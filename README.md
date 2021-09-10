@@ -2,7 +2,9 @@
 
 Use this project to pull in a GitHub Classroom assignment, edit a SQL file in DBeaver, and edit an ER diagram in UMLet.
 
-Prior to this: Setup your Git config settings and yourSSH Keys on GitHub and your VM.
+Prior to accepting this assignment: 
+* Setup your Git config settings 
+* your SSH Keys on GitHub and your VM.
 
 See [Moodle](moodle.pacificu.edu) for videos on Git config and SSH Keys (Linux Videos) and this exercise (CS445 Videos).
 
