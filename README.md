@@ -1,0 +1,1 @@
+# test_DBeaver_UMLet_Assignment
